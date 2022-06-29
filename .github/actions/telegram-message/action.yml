@@ -3,7 +3,7 @@ description: Send message to telegram (JavaScript code)
 
 inputs:
   chat:
-    description: Telegram chat ID
+    description: Telegram chat ID-
     required: true
   token:
     description: Telegram API token
