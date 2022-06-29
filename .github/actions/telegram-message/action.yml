@@ -11,7 +11,7 @@ inputs:
   result:
     description: Result (success, failure, skipped, cancelled)
     required: true
-    default: success
+    default: failure
 
 runs:
   using: node16
